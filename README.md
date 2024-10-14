@@ -1,6 +1,6 @@
 # CoNLL-to-JSON-Converter
 
-This project provides a Jupyter notebook to convert CoNLL format files to Label Studio compatible JSON format. It's particularly useful for preparing named entity recognition (NER) datasets for using in Label Studio.
+This project provides a Jupyter notebook to convert CoNLL format files to Label Studio compatible JSON format. It's particularly useful for preparing named entity recognition (NER) datasets for using in Label Studio. Please see the "samples" folder to learn about the format of compatible CoNLL files.
 
 ## Features
 
@@ -19,7 +19,7 @@ This project provides a Jupyter notebook to convert CoNLL format files to Label 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/SakibAhmedShuva/CoNLL-to-JSON-Converter.git
+   git clone https://github.com/SakibAhmedShuva/CoNLL-to-Label-Studio-JSON-Converter.git
    cd CoNLL-to-JSON-Converter
    ```
 
